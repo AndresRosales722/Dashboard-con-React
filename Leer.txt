@@ -1,0 +1,1 @@
+el practico de creando un aplicacion con react y trabajando con componentes estan en un solo proyecto 
